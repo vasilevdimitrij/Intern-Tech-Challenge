@@ -1,7 +1,7 @@
 # The Hotel Reviews App
 
 ## Overview of the Application
-This Frontend focused Web Application allows its users to write reviews and comments about hotels.
+This frontend focused Web Application allows its users to write reviews and comments about hotels.
 
 ## Purpose of the App
 I built this app for the primary purpose of showcasing my basic knowledge for the Intern Tech Challenge of Symphony in building Web Applications with JavaScript.
