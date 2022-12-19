@@ -1,21 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Hotel Reviews App
 
-## Available Scripts
+## Overview of the Application
+This Frontend focused Web Application allows its users to write reviews and comments about hotels.
 
-In the project directory, you can run:
+## Purpose of the App
+I built this app for the primary purpose of showcasing my basic knowledge for the Intern Tech Challenge of Symphony in building Web Applications with JavaScript.
 
-### `npm start`
+## Major Tools and Technologies Used in this Project
+HTML (Define the structure of the web pages)
+CSS (Styling the web pages)
+JAVASCRIPT (Adding logic to the web application)
+NODEJS (Server side Javascript)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Local Development
+```
+    * Clone this repo to your local machine using the "git clone <repo url>" command.
+    * Using the Terminal, navigate to the cloned repository.
+    * Install all the project's dependencies using the "npm install -d" command
+    * Start the server using the command "node app.js" or "npm start"
+    * Congratulations.Your app should be up and running
+```
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Notice
+* My knowledge of Web Development is still in the basics, but I am enthusiastic and open to learn more and build my career in a Web Developer. I would be more than happy if I have a chance to fulfil my basic knowledge with an internship/work experience with a real projects.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+
 
 
 
