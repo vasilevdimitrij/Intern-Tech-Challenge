@@ -17,8 +17,8 @@ NODEJS (Server side Javascript)
     * Clone this repo to your local machine using the "git clone <repo url>" command.
     * Using the Terminal, navigate to the cloned repository.
     * Install all the project's dependencies using the "npm install -d" command
-    * Start the server using the command "node app.js" or "npm start"
-    * Congratulations.Your app should be up and running
+    * Start the server using the command "npm start"
+    * Congratulations.Your app should be up and runnin.
 ```
 
 ## Notice
